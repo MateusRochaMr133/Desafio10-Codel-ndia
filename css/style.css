@@ -1,0 +1,60 @@
+
+
+
+body {
+    background-color: #13131F;
+    color: #ffffff;
+}
+
+
+
+/* ------------------------Header---------------------------- */
+header {
+    width: 1119px;
+    height: 30px;
+    padding: 30px 0 0 0;
+    
+}
+
+div.header-naped {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.header-naped h1{
+    color: #8257E6;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+div.home {
+
+}
+
+div.home ul li {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+div.home li span {
+    color: #8257E6;
+}
+
+
+
+div.button-conta button {
+    background-color: #8257E6;
+    color: #FEFBFB;
+    width: 125px;
+    height: 28px;
+    border-radius: 30px;
+    border: 1px solid #8257E6;
+    padding: 5px 20px;
+    gap: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
